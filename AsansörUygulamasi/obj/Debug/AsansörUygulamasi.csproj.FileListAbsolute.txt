@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\AsansörUygulamasi\AsansörUygulamasi\bin\Debug\AsansörUygulamasi.exe.config
+C:\Users\legen\source\repos\AsansörUygulamasi\AsansörUygulamasi\bin\Debug\AsansörUygulamasi.exe
+C:\Users\legen\source\repos\AsansörUygulamasi\AsansörUygulamasi\bin\Debug\AsansörUygulamasi.pdb
+C:\Users\legen\source\repos\AsansörUygulamasi\AsansörUygulamasi\obj\Debug\AsansörUygulamasi.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\AsansörUygulamasi\AsansörUygulamasi\obj\Debug\AsansörUygulamasi.Form1.resources
+C:\Users\legen\source\repos\AsansörUygulamasi\AsansörUygulamasi\obj\Debug\AsansörUygulamasi.Properties.Resources.resources
+C:\Users\legen\source\repos\AsansörUygulamasi\AsansörUygulamasi\obj\Debug\AsansörUygulamasi.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\AsansörUygulamasi\AsansörUygulamasi\obj\Debug\AsansörUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\AsansörUygulamasi\AsansörUygulamasi\obj\Debug\AsansörUygulamasi.exe
+C:\Users\legen\source\repos\AsansörUygulamasi\AsansörUygulamasi\obj\Debug\AsansörUygulamasi.pdb
